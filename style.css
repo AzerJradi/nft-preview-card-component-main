@@ -1,0 +1,78 @@
+body{
+    background-color: white;
+}
+.all{
+    margin-top: 20px;
+    margin-left: 35%;
+    background-color: #38598b;
+    height: 600px;
+    width: 500px;
+    border-radius: 12px;
+}
+.img{
+    width: 80%;
+    height: 50%;
+    margin: 20px 10% 0 10%;
+    border-radius: 8px;
+}
+.content{
+    position: relative;
+    left: 30px;
+}
+.titre{
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif,fantasy;
+}
+.des{
+    color: dimgrey;
+    padding-top: 10px;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    word-spacing: 10px;
+    font-family: comic sans MS,monospace;
+}
+.money{
+    position: relative;
+    top: -36px;
+    left: 20px;
+    color: aqua;
+}
+.day{
+    position: relative;
+    top: -106px;
+    left: 360px;
+    color:dimgrey;
+}
+.clock{
+    position: relative;
+    top: -68px;
+    left: 340px;
+}
+.person{
+    border-top: solid dimgrey 2px ;
+    margin-right: 60px;
+    padding-bottom: 5px;
+    position: relative;
+    top: -100px;
+}
+.person img{
+    width: 50px;
+}
+.jules{
+    position: relative;
+    left: 65px;
+    top: -56px;
+}
+#e{
+    color: white;
+    position: relative;
+    left: 144px;
+    top: -90px;
+}
+#a{
+    color: dimgrey;
+}
+.last{
+    margin-top: 10px;
+}
